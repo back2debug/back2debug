@@ -32,6 +32,3 @@ Still here? My experience and expertise lies with exchanging data between system
 
 <a href="https://github.com/tmart134" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmart134&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/tmart134/fend-project-memory-game-master" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tmart134&repo=dailypay_scripts&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
