@@ -4,9 +4,7 @@
 
 Hello and thanks for stopping by! 
 
-Intrigued? I am an action-based results-driven API-focused technical support professional with over 10 years experience operating in early stage Saas start-ups in the HRTech and FinTech space. In addition to computer science skills, I am also proficient in other areas including quality assurance, and optimizations. 
-
-Still here? My experience and expertise lies with exchanging data between systems, helping scale and optimize integrations and digging into complex areas of a codebase. Over the years I have developed, tested, supported or documented numerous integrations including Zendesk, Salesforce, Freshdesk, ADP, Ceridian, Paycor, Workday, Zapier, UKG Pro. I have a diverse set of skills, ranging from QA all the way to development in Ruby on Rails and Python. I collaborate closely with Engineering and Product Management.
+As an API-focused technical support professional with over 10 years of experience in early-stage SaaS start-ups in the HRTech and FinTech sectors, I excel at data exchange between systems, scaling and optimizing integrations, and digging into complex codebases. My skillset encompasses quality assurance, development in Ruby on Rails and Python, and collaborating with Engineering and Product Management to ensure seamless integrations and efficient operations. With my action-oriented mindset and results-driven approach, I consistently deliver outstanding outcomes.
 
 - 🌍  I'm based in New York
 - 🧠  I'm learning Node and Go!
