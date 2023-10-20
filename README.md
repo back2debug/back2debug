@@ -8,7 +8,7 @@ As an API-focused technical support professional with over 10 years of experienc
 
 - 🌍  I'm based in New York
 - 🧠  I'm learning Node and cybersecurity
-- 🤝  I'm open to collaborating on interesting projecting in Python or Go or some security work!
+- 🤝  I'm open to collaborating on interesting projecting in Python or some security work!
 
 ### Skills
 
