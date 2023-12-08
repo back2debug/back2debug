@@ -7,8 +7,8 @@ Hello and thanks for stopping by!
 As an API-focused technical support professional with over 10 years of experience in early-stage SaaS start-ups in the HRTech and FinTech sectors, I excel at data exchange between systems, scaling and optimizing integrations, and digging into complex codebases. My skillset encompasses quality assurance, development in Ruby on Rails and Python, and collaborating with Engineering and Product Management to ensure seamless integrations and efficient operations. With my action-oriented mindset and results-driven approach, I consistently deliver outstanding outcomes.
 
 - 🌍  I'm based in New York
-- 🧠  I'm learning Node and cybersecurity
-- 🤝  I'm open to collaborating on interesting projecting in Python or some security work!
+- 🧠  I'm learning Node Go and cybersecurity
+- 🤝  I'm open to collaborating on interesting projecting!
 
 ### Skills
 
@@ -25,8 +25,6 @@ As an API-focused technical support professional with over 10 years of experienc
 <a href="http://www.github.com/tmart134"><img src="https://github-readme-stats.vercel.app/api?username=tmart134&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&show_icons=true" alt="tmart134's GitHub stats" /></a>
 
 <a href="http://www.github.com/tmart134"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tmart134&stroke=ffffff&background=602975&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/tmart134"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tmart134&bg_color=602975&color=ffffff&line=0891b2&point=ffffff&area_color=602975&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/tmart134" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmart134&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
