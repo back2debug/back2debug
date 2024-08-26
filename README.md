@@ -4,10 +4,9 @@
 
 Hello and thanks for stopping by! 
 
-As an API-focused technical support professional with over 10 years of experience in early-stage SaaS start-ups in the HRTech and FinTech sectors, I excel at data exchange between systems, scaling and optimizing integrations, and digging into complex codebases. My skillset encompasses quality assurance, development in Ruby on Rails and Python, and collaborating with Engineering and Product Management to ensure seamless integrations and efficient operations. With my action-oriented mindset and results-driven approach, I consistently deliver outstanding outcomes.
+As an API-focused technical support professional with over 10 years of experience in early-stage SaaS start-ups in the HRTech and FinTech sectors, I excel at data exchange between systems, scaling and optimizing integrations, and digging into complex codebases.
 
-- 🌍  I'm based in New York
-- 🧠  I'm learning Node Go and cybersecurity
+- 🧠  I'm learning Go and cybersecurity
 - 🤝  I'm open to collaborating on interesting projecting!
 
 ### Skills
