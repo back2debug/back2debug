@@ -13,9 +13,9 @@ As an API-focused technical support professional with over 10 years of experienc
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/back2debug"><img src="https://github-readme-stats.vercel.app/api?username=tmart134&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&show_icons=true" alt="tmart134's GitHub stats" /></a>
+<a href="http://www.github.com/back2debug"><img src="https://github-readme-stats.vercel.app/api?username=back2debug&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&show_icons=true" alt="back2debug's GitHub stats" /></a>
 
-<a href="http://www.github.com/back2debug"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tmart134&stroke=ffffff&background=602975&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/back2debug"><img src="https://github-readme-streak-stats.herokuapp.com/?user=back2debug&stroke=ffffff&background=602975&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/back2debug" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmart134&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/back2debug" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=back2debug&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=602975&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
